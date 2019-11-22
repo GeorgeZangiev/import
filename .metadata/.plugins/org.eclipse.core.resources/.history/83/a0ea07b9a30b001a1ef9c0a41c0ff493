@@ -1,0 +1,16 @@
+package com.udemy.PeoplefindersScraper;
+
+import com.mashape.unirest.http.HttpResponse;
+
+import com.mashape.unirest.http.Unirest;
+
+public class PeoplefindersScraper {
+
+	public static void main(String[] args) throws Exception {
+		
+		final HttpResponse<String> response = Unirest.get("https://www.peoplefinders.com/people/james-smith/ny/new-york").asString();
+		
+		System.out.println(response.getBody());
+	}
+
+}

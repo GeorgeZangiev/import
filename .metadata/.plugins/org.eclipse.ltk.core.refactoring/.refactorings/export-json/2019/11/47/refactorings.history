@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SearchResult.java&apos; to &apos;JSOUP_TEST/src/main/java/com.udemy.JSOUP_TEST&apos;&#x0D;&#x0A;- Original project: &apos;export-json&apos;&#x0D;&#x0A;- Destination element: &apos;JSOUP_TEST/src/main/java/com.udemy.JSOUP_TEST&apos;&#x0D;&#x0A;- Original element: &apos;SearchResult.java&apos;" description="Copy compilation unit" destination="=JSOUP_TEST/src\/main\/java&lt;com.udemy.JSOUP_TEST" element1="/src\/main\/java&lt;{SearchResult.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1574424395771" units="1" version="1.0"/>
+</session>

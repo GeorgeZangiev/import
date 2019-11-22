@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;JSOUP_TEST&apos;&#x0D;&#x0A;- Original project: &apos;JSOUP_TEST&apos;&#x0D;&#x0A;- Original element: &apos;com.udemy.JSOUP_TEST.JsoupTest.java&apos;" description="Delete element" element1="/src\/main\/java&lt;com.udemy.JSOUP_TEST{JsoupTest.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1573296257767" subPackages="false" version="1.0"/>
+</session>
