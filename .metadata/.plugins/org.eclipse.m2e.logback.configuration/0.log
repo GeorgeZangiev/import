@@ -5724,3 +5724,137 @@ org.eclipse.core.runtime.CoreException: Launch configuration ExportJson referenc
 2019-11-22 15:30:56,659 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
 2019-11-22 15:30:56,671 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-22 15:30:56,679 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-22 15:50:19,792 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-24 12:45:02,229 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-24 12:45:17,675 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-24 12:45:23,673 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/hynnet/logback-classic/1.1.3/logback-classic-1.1.3.pom
+2019-11-24 12:45:24,062 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/hynnet/logback-classic/1.1.3/logback-classic-1.1.3.pom
+2019-11-24 12:45:24,263 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.3/logback-parent-1.1.3.pom
+2019-11-24 12:45:24,377 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.3/logback-parent-1.1.3.pom
+2019-11-24 12:45:24,647 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/hynnet/logback-core/1.1.3/logback-core-1.1.3.pom
+2019-11-24 12:45:24,856 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/hynnet/logback-core/1.1.3/logback-core-1.1.3.pom
+2019-11-24 12:45:24,935 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2019-11-24 12:45:25,025 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2019-11-24 12:45:25,103 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2019-11-24 12:45:25,240 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2019-11-24 12:45:25,393 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/hynnet/logback-classic/1.1.3/logback-classic-1.1.3.jar
+2019-11-24 12:45:25,812 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/hynnet/logback-classic/1.1.3/logback-classic-1.1.3.jar
+2019-11-24 12:45:25,873 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/hynnet/logback-core/1.1.3/logback-core-1.1.3.jar
+2019-11-24 12:45:26,657 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/hynnet/logback-core/1.1.3/logback-core-1.1.3.jar
+2019-11-24 12:45:26,721 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:undercover-scraper:1.0-SNAPSHOT @ C:\Users\zangi\Desktop\undercover-scraper\pom.xml.
+2019-11-24 12:45:26,774 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2019-11-24 12:45:27,039 [Worker-3: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2019-11-24 12:45:27,139 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2019-11-24 12:45:27,498 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2019-11-24 12:45:29,152 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-24 12:45:29,152 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-24 12:45:29,154 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-24 12:45:29,161 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-24 12:45:29,190 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /undercover-scraper/src/main/java
+2019-11-24 12:45:29,199 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /undercover-scraper/src/main/resources
+2019-11-24 12:45:29,208 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /undercover-scraper/src/test/java
+2019-11-24 12:45:29,538 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/hynnet/logback-classic/1.1.3/logback-classic-1.1.3-sources.jar
+2019-11-24 12:45:30,280 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2019-11-24 12:45:30,288 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/hynnet/logback-classic/1.1.3/logback-classic-1.1.3-sources.jar
+2019-11-24 12:45:30,428 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.hynnet:logback-classic:1.1.3
+2019-11-24 12:45:30,737 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-24 12:45:30,737 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\PeoplefindersScraper\src\main\resources
+2019-11-24 12:45:30,745 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-24 12:45:30,745 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\PeoplefindersScraper\src\test\resources
+2019-11-24 12:45:30,876 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/hynnet/logback-core/1.1.3/logback-core-1.1.3-sources.jar
+2019-11-24 12:45:31,039 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-24 12:45:31,039 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\Unirest-test\src\main\resources
+2019-11-24 12:45:31,040 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-24 12:45:31,049 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\Unirest-test\src\test\resources
+2019-11-24 12:45:31,284 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-24 12:45:31,305 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-24 12:45:31,307 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-24 12:45:31,323 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\Desktop\undercover-scraper\src\test\resources
+2019-11-24 12:45:31,625 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/hynnet/logback-core/1.1.3/logback-core-1.1.3-sources.jar
+2019-11-24 12:45:31,743 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.hynnet:logback-core:1.1.3
+2019-11-24 12:45:32,148 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar
+2019-11-24 12:45:32,559 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar
+2019-11-24 12:45:33,139 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.7
+2019-11-24 12:45:33,153 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.hynnet:logback-classic:1.1.3
+2019-11-24 12:45:33,168 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.hynnet:logback-core:1.1.3
+2019-11-24 12:45:33,182 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.7
+2019-11-24 12:45:33,420 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-24 12:45:33,452 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-24 12:45:33,453 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-24 12:45:33,470 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\Desktop\undercover-scraper\src\test\resources
+2019-11-25 21:58:24,689 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-25 21:58:29,213 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-11-25 22:06:19,877 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:JSOUP_TEST:1.0-SNAPSHOT @ C:\Users\zangi\eclipse-workspace\JSOUP_TEST\pom.xml.
+2019-11-25 22:06:21,189 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:06:21,189 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:06:21,191 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:06:21,191 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:06:22,716 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:06:22,717 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:06:22,718 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:06:22,719 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:07:39,053 [Worker-5: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:07:39,053 [Worker-5: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:07:39,054 [Worker-5: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:07:39,055 [Worker-5: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:08:01,073 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:08:01,092 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:08:01,093 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:08:01,093 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:19:42,400 [Worker-20: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:19:42,401 [Worker-20: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:19:42,414 [Worker-20: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:19:42,421 [Worker-20: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:33:15,800 [Worker-27: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:33:15,806 [Worker-27: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:33:15,814 [Worker-27: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:33:15,819 [Worker-27: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:34:07,034 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-11-25 22:34:13,171 [Worker-28: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:34:13,183 [Worker-28: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:34:13,192 [Worker-28: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:34:13,193 [Worker-28: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:44:05,088 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:44:05,089 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:44:05,090 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:44:05,091 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:44:06,090 [Worker-23: Launching GoogleScraper] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:44:06,098 [Worker-23: Launching GoogleScraper] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:44:06,110 [Worker-23: Launching GoogleScraper] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:44:06,110 [Worker-23: Launching GoogleScraper] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-25 22:45:42,441 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-25 22:45:45,410 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-11-25 22:46:07,742 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:46:07,743 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-25 22:46:07,745 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-25 22:46:07,745 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-26 23:27:43,788 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-26 23:30:41,187 [Worker-10: Launching PeoplefindersScraper (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:30:41,188 [Worker-10: Launching PeoplefindersScraper (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\PeoplefindersScraper\src\main\resources
+2019-11-26 23:30:41,190 [Worker-10: Launching PeoplefindersScraper (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:30:41,191 [Worker-10: Launching PeoplefindersScraper (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\PeoplefindersScraper\src\test\resources
+2019-11-26 23:33:01,289 [Worker-9: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:33:01,373 [Worker-9: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-26 23:33:01,374 [Worker-9: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:33:01,375 [Worker-9: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-26 23:36:59,249 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:36:59,249 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-26 23:36:59,251 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:36:59,252 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-26 23:49:57,862 [Worker-17: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:49:57,863 [Worker-17: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-26 23:49:57,864 [Worker-17: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:49:57,888 [Worker-17: Launching HLTV_ORG] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-26 23:54:19,058 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:54:19,058 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-26 23:54:19,060 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:54:19,071 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources
+2019-11-26 23:54:19,144 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:54:19,152 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\PeoplefindersScraper\src\main\resources
+2019-11-26 23:54:19,154 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-26 23:54:19,166 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\PeoplefindersScraper\src\test\resources
+2019-11-27 16:58:49,732 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-11-27 18:04:31,254 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 18:04:31,255 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\resources
+2019-11-27 18:04:31,257 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-27 18:04:31,258 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\test\resources

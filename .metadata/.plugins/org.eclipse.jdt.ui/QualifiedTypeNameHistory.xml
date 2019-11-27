@@ -24,10 +24,12 @@
     <fullyQualifiedTypeName name="java.net.http.HttpResponse"/>
     <fullyQualifiedTypeName name="com.mashape.unirest.http.Unirest"/>
     <fullyQualifiedTypeName name="com.mashape.unirest.http.HttpResponse"/>
-    <fullyQualifiedTypeName name="java.net.URLEncoder"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="javax.naming.directory.SearchResult"/>
     <fullyQualifiedTypeName name="com.udemy.JSOUP_TEST.SearchResult"/>
+    <fullyQualifiedTypeName name="java.net.URLEncoder"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
+    <fullyQualifiedTypeName name="com.udemy.JSOUP_TEST.HLTV_ORG"/>
+    <fullyQualifiedTypeName name="javax.naming.directory.SearchResult"/>
 </qualifiedTypeNameHistroy>

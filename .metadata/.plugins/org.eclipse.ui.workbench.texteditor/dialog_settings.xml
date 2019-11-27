@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="dependencies"/>
+		<item key="selection" value="javax.naming.directory.SearchResult"/>
 		<list key="findhistory">
+			<item value="javax.naming.directory.SearchResult"/>
 			<item value="dependencies"/>
 		</list>
 		<list key="replacehistory">
