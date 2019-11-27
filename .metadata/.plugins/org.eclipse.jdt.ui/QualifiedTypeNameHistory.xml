@@ -32,4 +32,5 @@
     <fullyQualifiedTypeName name="javax.management.loading.PrivateClassLoader"/>
     <fullyQualifiedTypeName name="com.udemy.JSOUP_TEST.HLTV_ORG"/>
     <fullyQualifiedTypeName name="javax.naming.directory.SearchResult"/>
+    <fullyQualifiedTypeName name="com.udemy.JSOUP_TEST.HLTV_ORG_LIVESCORE"/>
 </qualifiedTypeNameHistroy>

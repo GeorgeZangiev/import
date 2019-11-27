@@ -39,6 +39,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.udemy.HLTV_ORG_LIVESCORE"/>
 			<item value="com.udemy.PeoplefindersScraper"/>
 			<item value="com.udemy.Unirest_test"/>
 			<item value="com.udemy.Unirest_Test"/>
@@ -50,6 +51,7 @@
 			<item value="com.udemy"/>
 		</list>
 		<list key="artifactId">
+			<item value="HLTV_ORG_LIVESCORE"/>
 			<item value="PeoplefindersScraper"/>
 			<item value="Unirest-test"/>
 			<item value="Unirest_Test"/>
