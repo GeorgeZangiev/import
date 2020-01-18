@@ -15,6 +15,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\zangi\eclipse-workspace\JSOUP_TEST\src\main\java\com\udemy\JSOUP_TEST\HLTV_ORG_MATCHES.java"/>
 			<item value="C:\Users\zangi\eclipse-workspace\"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -39,6 +40,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.udemy.hltv_org"/>
 			<item value="com.udemy.HLTV_ORG_LIVESCORE"/>
 			<item value="com.udemy.PeoplefindersScraper"/>
 			<item value="com.udemy.Unirest_test"/>
@@ -51,6 +53,7 @@
 			<item value="com.udemy"/>
 		</list>
 		<list key="artifactId">
+			<item value="hltv_org"/>
 			<item value="HLTV_ORG_LIVESCORE"/>
 			<item value="PeoplefindersScraper"/>
 			<item value="Unirest-test"/>
